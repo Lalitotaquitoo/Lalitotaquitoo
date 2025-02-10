@@ -21,7 +21,7 @@ I love to learn and build something new, productive, innovative, and creative.
   - Data Analytics
 - 🤝 I’m looking forward to collaborating on open-source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉
-- Outside tech: 📚 I love to read novels, 🎨 do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech: 📚 I love to read novels, 🎸 play the guitar, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📩 Reach out to me at: [eduardo.villanueva.utrilla@gmail.com](mailto:eduardo.villanueva.utrilla@gmail.com)
 
 ---
