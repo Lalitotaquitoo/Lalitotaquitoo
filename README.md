@@ -30,4 +30,27 @@ I love to learn and build something new, productive, innovative, and creative.
 
 <div align="center">
   <a href="https://github.com/Lalitotaquitoo/Pomodoro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lalitotaquitoo&repo=Pomodoro" alt="Pomodoro" width
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lalitotaquitoo&repo=Pomodoro" alt="Pomodoro" width="250" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Lalitotaquitoo/21_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lalitotaquitoo&repo=21_bot" alt="21_bot" width="250" />
+  </a>
+</div>
+
+---
+
+## 👀 My GitHub Stats
+
+<div align="center">
+  <p>
+    <b><em>GitHub Streak Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalitotaquitoo&theme=dark" alt="GitHub Streak Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lalitotaquitoo&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Status" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalitotaquitoo&layout=compact&theme=dark" alt="Top Languages" />
+  </p>
+</div>
