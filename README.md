@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi there 👋, Eduardo Villanueva here.                       
+# Hi there 👋, Eduardo Villanueva here.
+<a href="https://www.linkedin.com/in/eduardo-antonio-villanueva-utrilla-7014102b9/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" height="20"/>
+</a>
+
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lalitotaquitoo.repoName) 
 [![GitHub followers](https://img.shields.io/github/followers/Lalitotaquitoo.svg?style=social&label=Follow)](https://github.com/Lalitotaquitoo?tab=followers)
