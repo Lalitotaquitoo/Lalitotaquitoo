@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, Eduardo Villanueva here. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-antonio-villanueva-utrilla-7014102b9/)  
+# Hi there 👋, Eduardo Villanueva here.                               [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-antonio-villanueva-utrilla-7014102b9/)  
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lalitotaquitoo.repoName) 
