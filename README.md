@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi there 👋, Eduardo Villanueva here.                               [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-antonio-villanueva-utrilla-7014102b9/)  
-
+# Hi there 👋, Eduardo Villanueva here.                       
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lalitotaquitoo.repoName) 
 [![GitHub followers](https://img.shields.io/github/followers/Lalitotaquitoo.svg?style=social&label=Follow)](https://github.com/Lalitotaquitoo?tab=followers)
@@ -12,7 +11,8 @@
 
 <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me*** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-antonio-villanueva-utrilla-7014102b9/)  
+
 
 I am an undergraduate Computer Science and Engineering student at **University of Guadalajara, MX**.  
 C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at.  
