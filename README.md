@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi there 👋, Eduardo Villanueva here.
+# Hi there 👋, Eduardo Villanueva here. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-antonio-villanueva-utrilla-7014102b9/)  
+
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lalitotaquitoo.repoName) 
 [![GitHub followers](https://img.shields.io/github/followers/Lalitotaquitoo.svg?style=social&label=Follow)](https://github.com/Lalitotaquitoo?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-antonio-villanueva-utrilla-7014102b9/)  
+
 
 
 </div>
